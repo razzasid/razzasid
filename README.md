@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Mohd Raza.
+👋 Hi there! I'm Mohd Raza.<br><br>
 👯 I’m looking to collaborate on fun and interactive web projects! I enjoy working with other beginners or anyone interested in creating simple, engaging web applications and games. Let’s learn and build together!<br><br>🤝 I’m looking for help with advancing my JavaScript skills, improving responsive web design, and understanding the basics of object tracking systems. If you have expertise in these areas, I'd love to connect!<br><br>🌱 I’m currently learning JavaScript fundamentals, mobile-responsive design, and improving my programming skills in HTML, CSS, and JavaScript. I'm focused on building a strong foundation in web development.<br><br>💬 Ask me about: My journey learning web development basics, tips for beginners in programming, or my Snake Game project!<br><br>⚡⚡ Fun fact: I’m sharing my journey of learning and building projects in public to stay motivated and connect with others who are on a similar path!
 
 ## 🌐 Socials:
