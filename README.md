@@ -19,7 +19,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=razzasid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohraza639j) 
+💖 [Sponsor Me on GitHub](https://github.com/sponsors/razzasid)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
